@@ -1,0 +1,89 @@
+2024-09-25 11:08:46 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Lenovo pc\eclipse-workspace\EclipseWorkspace2\PetStoreAPIAutomation\testng.xml
+
+2024-09-25 11:08:57 INFO  DataDrivenTests:33 - *********** User details=> {
+    "code": 200,
+    "type": "unknown",
+    "message": "1010"
+}
+2024-09-25 11:09:00 INFO  DataDrivenTests:33 - *********** User details=> {
+    "code": 200,
+    "type": "unknown",
+    "message": "1011"
+}
+2024-09-25 11:09:02 INFO  DataDrivenTests:33 - *********** User details=> {
+    "code": 200,
+    "type": "unknown",
+    "message": "1012"
+}
+2024-09-25 11:09:02 INFO  DataDrivenTests:39 - **** deleting the user=>testuser1******
+2024-09-25 11:09:05 INFO  DataDrivenTests:39 - **** deleting the user=>testuser2******
+2024-09-25 11:09:07 INFO  DataDrivenTests:39 - **** deleting the user=>testuser3******
+2024-09-25 11:10:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Lenovo pc\eclipse-workspace\EclipseWorkspace2\PetStoreAPIAutomation\testng.xml
+
+2024-09-25 11:10:17 INFO  UserTests:45 - **** Creating the user******
+2024-09-25 11:10:25 INFO  UserTests:50 - **** User is created******
+2024-09-25 11:10:25 INFO  UserTests:55 - **** Reading the user******
+2024-09-25 11:10:33 INFO  UserTests:59 - **** User is read******
+2024-09-25 11:10:33 INFO  UserTests:63 - **** Updating the user******
+2024-09-25 11:10:35 INFO  UserTests:72 - **** User is updated******
+2024-09-25 11:10:35 INFO  UserTests:77 - **** deleting the user******
+2024-09-25 11:10:37 INFO  UserTests:82 - **** User is deleted******
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 13 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-25 11:34:43 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Lenovo pc\AppData\Local\Temp\testng-eclipse--721541493\testng-customsuite.xml
+
+2024-09-25 11:34:43 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2024-09-25 11:34:44 INFO  UserTests:46 - **** Creating the user******
+2024-09-25 11:34:53 INFO  UserTests:51 - **** User is created******
+2024-09-25 11:34:53 INFO  UserTests:56 - **** Reading the user******
+2024-09-25 11:34:55 INFO  UserTests:60 - **** User is read******
+2024-09-25 11:34:55 INFO  UserTests:64 - **** Updating the user******
+2024-09-25 11:34:57 INFO  UserTests:73 - **** User is updated******
+2024-09-25 11:34:57 INFO  UserTests:78 - **** deleting the user******
+2024-09-25 11:35:00 INFO  UserTests:83 - **** User is deleted******
+2024-09-25 11:35:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@4713b631: 66 ms
+2024-09-25 11:35:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@4c9d833: 97 ms
+2024-09-25 11:35:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@18b58c77: 1 ms
+2024-09-25 11:35:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@344a065a: 22 ms
+2024-09-25 11:35:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4fd63c43: 17 ms
+2024-09-25 11:35:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6ee1ddcf: 11 ms
+2024-09-25 11:35:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6b630d4b: 1 ms
+2024-09-25 11:37:51 INFO  UserTests:46 - **** Creating the user******
+2024-09-25 11:37:59 INFO  UserTests:51 - **** User is created******
+2024-09-25 11:37:59 INFO  UserTests:56 - **** Reading the user******
+2024-09-25 11:38:01 INFO  UserTests:60 - **** User is read******
+2024-09-25 11:38:01 INFO  UserTests:64 - **** Updating the user******
+2024-09-25 11:38:05 INFO  UserTests:73 - **** User is updated******
+2024-09-25 11:38:05 INFO  UserTests:78 - **** deleting the user******
+2024-09-25 11:38:07 INFO  UserTests:83 - **** User is deleted******
